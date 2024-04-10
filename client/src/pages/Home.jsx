@@ -18,9 +18,8 @@ export default function Home() {
     <div>
       <div className='flex flex-col gap-6 p-28 px-3 max-w-6xl mx-auto '>
         <h1 className='text-3xl font-bold lg:text-6xl'>Welcome to my Blog</h1>
-        <p className='text-gray-500 text-xs sm:text-sm'>
-          Here you'll find a variety of articles and tutorials on topics such as
-          web development, software engineering, and programming languages.
+        <p className='text-teal-700 dark:text-teal-300 text-xs sm:text-sm lg:text-lg'>
+          Your go-to destination for holistic health and wellness inspiration. Explore expert advice on fitness, nutrition, mental wellbeing, and more, tailored to empower you on your journey to a healthier, happier life.
         </p>
         <Link
           to='/search'

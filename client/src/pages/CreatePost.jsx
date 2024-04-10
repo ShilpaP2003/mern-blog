@@ -103,9 +103,9 @@ export default function CreatePost() {
             }
           >
             <option value='uncategorized'>Select a category</option>
-            <option value='javascript'>Health</option>
-            <option value='reactjs'>Fitness</option>
-            <option value='nextjs'>Beauty</option>
+            <option value='health'>Health</option>
+            <option value='fitness'>Fitness</option>
+            <option value='beauty'>Beauty</option>
           </Select>
         </div>
         <div className='flex gap-4 items-center justify-between border-4 border-teal-500 border-dotted p-3'>

@@ -45,12 +45,12 @@ export default function SignUp() {
         <div className='flex-1'>
           <Link to='/' className='font-bold dark:text-white text-2xl'>
             <span className='px-2 py-1 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 rounded-lg text-white'>
-              Health and Wellness
+              Mindfull Wellness
             </span>
-            Blog
+            
           </Link>
-          <p className='text-sm mt-5'>
-            Blog site
+          <p className='font-serif text-1xl mt-5'>
+            Unlock your path to optimal well-being with us
           </p>
           </div>
         {/*right*/}
